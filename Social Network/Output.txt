@@ -1,0 +1,48 @@
+ViewProfile 73D0EF96
+Name: Kurtis Wood
+Age: 68
+Country: Norway
+Activity Rate: 36%
+Friends: 16
+
+ListFriends 73D0EF96
+16 friend(s) found.
+Lauren Collins [ID:47837438]
+Gemma Powell [ID:E29FDB1B]
+Maria Hughes [ID:B5B36E2D]
+Penelope Barnes [ID:7F3870E4]
+Ellie Young [ID:2F5D9663]
+Ella Nguyen [ID:36AFADD0]
+Gladys Barnes [ID:1EDEF19B]
+Helena Reed [ID:9CDBB99F]
+Isla Foster [ID:49B6206F]
+Marcus Gonzalez [ID:F0D81FF4]
+Paula Walker [ID:D7572910]
+Andrew Washington [ID:B3E14885]
+Brian Watson [ID:43B06C7F]
+Damien Long [ID:B651431F]
+Bridget Miller [ID:DFA5F822]
+Gloria Hernandez [ID:E6EEE3D2]
+
+ListMutuals 73D0EF96 8A4ECF3A
+3 mutual friend(s) found.
+Andrew Washington [ID:B3E14885]
+Bridget Miller [ID:DFA5F822]
+Brian Watson [ID:43B06C7F]
+
+FindSeparation 73D0EF96 A205E5BA
+3 degree(s)
+
+FriendScore 73D0EF96 A205E5BA
+0.00
+
+SuggestFriends 73D0EF96
+Amelia Green [ID:B819BE27] - 7 mutual friend(s)
+Kent Reed [ID:6A0E4C44] - 6 mutual friend(s)
+Natalie Rivera [ID:65A5F18B] - 5 mutual friend(s)
+Wendell Watson [ID:1AF1A5B4] - 4 mutual friend(s)
+Enrique Wright [ID:A0D8C906] - 4 mutual friend(s)
+
+TotalUsers GBR FRA
+246
+

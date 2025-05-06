@@ -119,6 +119,7 @@
     <ClCompile Include="Solution.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="SocialNetwork.h" />
     <ClInclude Include="Solution.h" />
   </ItemGroup>
   <ItemGroup>

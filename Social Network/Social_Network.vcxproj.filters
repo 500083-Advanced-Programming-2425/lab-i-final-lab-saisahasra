@@ -6,6 +6,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Solution.h" />
+    <ClInclude Include="SocialNetwork.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Input_Files">
